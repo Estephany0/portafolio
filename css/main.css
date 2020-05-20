@@ -2264,8 +2264,8 @@ body {
 }
 
 .service-area .single-service .overlay-content h4 {
-  color: #fff;
-  font-size: 20px;
+  color: #000;
+  font-size: 30px;
   font-weight: 600;
   margin-bottom: 15px;
 }
