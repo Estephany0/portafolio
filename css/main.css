@@ -2225,7 +2225,7 @@ body {
 
 .service-area .single-service {
   height: 400px;
-  color: #fff;
+  color: #000;
   position: relative;
   border-radius: 3px;
   overflow: hidden;
